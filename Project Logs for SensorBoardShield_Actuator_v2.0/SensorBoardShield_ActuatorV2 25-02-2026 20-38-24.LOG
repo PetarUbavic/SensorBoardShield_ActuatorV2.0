@@ -1,0 +1,190 @@
+Removed Member From Class: ClassName=mosfetsema Member=1
+Change Component Designator: OldDesignator=C1_1 NewDesignator=C1_13
+Change Component Designator: OldDesignator=C2_1 NewDesignator=C2_13
+Change Component Designator: OldDesignator=D1_1 NewDesignator=D1_13
+Change Component Designator: OldDesignator=J_1 NewDesignator=J_13
+Change Component Designator: OldDesignator=Q_1 NewDesignator=Q_13
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R1_13
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R2_13
+Change Component Designator: OldDesignator=R3_1 NewDesignator=R3_13
+Change Component Designator: OldDesignator=U_1 NewDesignator=U_13
+Added Component: Designator=C1_11(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_12(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found WCAP-ASLI_D6.3H5.5
+Add Component: Footprint Not Found WCAP-ASLI_D6.3H5.5
+Add Component: Footprint Not Found WCAP-ASLI_D6.3H5.5
+Added Component: Designator=D1_11(DO214AC)
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D1_12(DO214AC)
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=HORIZ1(1 Pin Header)
+Added Component: Designator=HORIZ2(1 Pin Header)
+Added Component: Designator=J_11(AMASS_XT30PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'amass'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J_12(AMASS_XT30PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'amass'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found INF-PG-TSDSON-8-32-1-V
+Add Component: Footprint Not Found INF-PG-TSDSON-8-32-1-V
+Added Component: Designator=R1_11(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_12(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_11(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_12(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_11(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_12(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=U_11(SOT95P270X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP1416T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP1416T-E/OT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U_12(SOT95P270X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP1416T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP1416T-E/OT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_11-1
+Added Pin To Net: NetName=VCC-12V Pin=C1_11-2
+Added Pin To Net: NetName=GND Pin=C1_12-1
+Added Pin To Net: NetName=VCC-12V Pin=C1_12-2
+Add Pin To Net: Unknown Pin: Pin C2_6-1
+Add Pin To Net: Unknown Pin: Pin C2_6-2
+Add Pin To Net: Unknown Pin: Pin C2_11-1
+Add Pin To Net: Unknown Pin: Pin C2_11-2
+Add Pin To Net: Unknown Pin: Pin C2_12-1
+Add Pin To Net: Unknown Pin: Pin C2_12-2
+Added Pin To Net: NetName=VCC-12V Pin=D1_11-1
+Added Pin To Net: NetName=VCC-12V Pin=D1_12-1
+Added Pin To Net: NetName=VCC-12V Pin=J_11-P
+Added Pin To Net: NetName=VCC-12V Pin=J_12-P
+Add Pin To Net: Unknown Pin: Pin Q_11-1
+Add Pin To Net: Unknown Pin: Pin Q_11-2
+Add Pin To Net: Unknown Pin: Pin Q_11-3
+Add Pin To Net: Unknown Pin: Pin Q_12-1
+Add Pin To Net: Unknown Pin: Pin Q_12-2
+Add Pin To Net: Unknown Pin: Pin Q_12-3
+Added Pin To Net: NetName=GND Pin=R2_11-1
+Added Pin To Net: NetName=GND Pin=R2_12-1
+Added Pin To Net: NetName=GND Pin=R3_11-1
+Added Pin To Net: NetName=GND Pin=R3_12-1
+Added Pin To Net: NetName=GND Pin=U_11-1
+Added Pin To Net: NetName=VCC-12V Pin=U_11-2
+Added Pin To Net: NetName=GND Pin=U_11-4
+Added Pin To Net: NetName=GND Pin=U_12-1
+Added Pin To Net: NetName=VCC-12V Pin=U_12-2
+Added Pin To Net: NetName=GND Pin=U_12-4
+Change Net Name : Old Net Name=NetD1_1_2 New Net Name=NetD1_13_2
+Change Net Name : Old Net Name=NetQ_1_4 New Net Name=NetQ_13_4
+Change Net Name : Old Net Name=NetR1_1_1 New Net Name=NetR1_13_1
+Added Pin To Net: NetName=NetD1_11_2 Pin=D1_11-2
+Added Pin To Net: NetName=NetD1_11_2 Pin=J_11-N
+Added Net: Name=NetD1_11_2
+Added Pin To Net: NetName=NetD1_12_2 Pin=D1_12-2
+Added Pin To Net: NetName=NetD1_12_2 Pin=J_12-N
+Added Net: Name=NetD1_12_2
+Added Pin To Net: NetName=NetQ_11_4 Pin=R1_11-2
+Added Pin To Net: NetName=NetQ_11_4 Pin=R2_11-2
+Added Net: Name=NetQ_11_4
+Added Pin To Net: NetName=NetQ_12_4 Pin=R1_12-2
+Added Pin To Net: NetName=NetQ_12_4 Pin=R2_12-2
+Added Net: Name=NetQ_12_4
+Added Pin To Net: NetName=NetR1_11_1 Pin=R1_11-1
+Added Pin To Net: NetName=NetR1_11_1 Pin=U_11-5
+Added Net: Name=NetR1_11_1
+Added Pin To Net: NetName=NetR1_12_1 Pin=R1_12-1
+Added Pin To Net: NetName=NetR1_12_1 Pin=U_12-5
+Added Net: Name=NetR1_12_1
+Added Pin To Net: NetName=TCK1 Pin=HORIZ1-1
+Added Pin To Net: NetName=TCK1 Pin=R3_12-2
+Added Pin To Net: NetName=TCK1 Pin=U_12-3
+Added Net: Name=TCK1
+Added Pin To Net: NetName=TCK4 Pin=HORIZ2-1
+Added Pin To Net: NetName=TCK4 Pin=R3_11-2
+Added Pin To Net: NetName=TCK4 Pin=U_11-3
+Added Net: Name=TCK4
+Change Class Name : Old Net Name=1 New Net Name=13
+Change Class Name : Old Net Name=SensorBoardShield_ActuatorV1.1 New Net Name=SensorBoardShield_Actuator_v2.0
+Added Class: Name=11
+Added Class: Name=12
+Add Class Member: Failed to add class member : Component C2_6 (C2) 100uF
+Added Member To Class: ClassName=SensorBoardShield_Actuator_v2.0 Member=Component HORIZ1 1 Pin Header
+Added Member To Class: ClassName=SensorBoardShield_Actuator_v2.0 Member=Component HORIZ2 1 Pin Header
+Added Member To Class: ClassName=mosfetsema Member=1 (mosfetsema.SchDoc)
+Added Member To Class: ClassName=mosfetsema Member=1 (mosfetsema.SchDoc)
+Added Member To Class: ClassName=mosfetsema Member=1 (mosfetsema.SchDoc)

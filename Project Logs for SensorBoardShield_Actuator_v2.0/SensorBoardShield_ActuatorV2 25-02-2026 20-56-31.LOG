@@ -1,0 +1,270 @@
+Added Component: Designator=C1_8(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1_9(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2_6(WCAP-ASLI_D6.3H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "16uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080343009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "255mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ASED055101M016DVCTBB000"; VariantName = "[No Variations]"
+Added Component: Designator=C2_8(WCAP-ASLI_D6.3H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "16uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080343009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "255mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ASED055101M016DVCTBB000"; VariantName = "[No Variations]"
+Added Component: Designator=C2_9(WCAP-ASLI_D6.3H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/865080343009?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "16uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080343009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-ASLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "255mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ASED055101M016DVCTBB000"; VariantName = "[No Variations]"
+Added Component: Designator=D1_8(DO214AC)
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D1_9(DO214AC)
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=HORIZ1(1 Pin Header)
+Added Component: Designator=HORIZ2(1 Pin Header)
+Added Component: Designator=J_8(AMASS_XT30PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'amass'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J_9(AMASS_XT30PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'amass'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT30PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q_8(INF-PG-TSDSON-8-32-1-V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "IPZ40N04S5L-7R4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TSDSON-8-32"; VariantName = "[No Variations]"
+Added Component: Designator=Q_9(INF-PG-TSDSON-8-32-1-V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "IPZ40N04S5L-7R4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TSDSON-8-32"; VariantName = "[No Variations]"
+Added Component: Designator=R1_8(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R1_9(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_8(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2_9(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_8(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3_9(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCT06030C1001FP500/2607821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "1Kohm"; VariantName = "[No Variations]"
+Added Component: Designator=U_8(SOT95P270X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP1416T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP1416T-E/OT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U_9(SOT95P270X145-5N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP1416T-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP1416T-E/OT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1416T-E/OT/Microchip/view-part/287469/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_8-1
+Added Pin To Net: NetName=VCC-12V Pin=C1_8-2
+Added Pin To Net: NetName=GND Pin=C1_9-1
+Added Pin To Net: NetName=VCC-12V Pin=C1_9-2
+Added Pin To Net: NetName=VCC-12V Pin=C2_6-1
+Added Pin To Net: NetName=GND Pin=C2_6-2
+Added Pin To Net: NetName=VCC-12V Pin=C2_8-1
+Added Pin To Net: NetName=GND Pin=C2_8-2
+Added Pin To Net: NetName=VCC-12V Pin=C2_9-1
+Added Pin To Net: NetName=GND Pin=C2_9-2
+Added Pin To Net: NetName=VCC-12V Pin=D1_8-1
+Added Pin To Net: NetName=VCC-12V Pin=D1_9-1
+Added Pin To Net: NetName=VCC-12V Pin=J_8-P
+Added Pin To Net: NetName=VCC-12V Pin=J_9-P
+Added Pin To Net: NetName=GND Pin=Q_8-1
+Added Pin To Net: NetName=GND Pin=Q_8-2
+Added Pin To Net: NetName=GND Pin=Q_8-3
+Added Pin To Net: NetName=GND Pin=Q_9-1
+Added Pin To Net: NetName=GND Pin=Q_9-2
+Added Pin To Net: NetName=GND Pin=Q_9-3
+Added Pin To Net: NetName=GND Pin=R2_8-1
+Added Pin To Net: NetName=GND Pin=R2_9-1
+Added Pin To Net: NetName=GND Pin=R3_8-1
+Added Pin To Net: NetName=GND Pin=R3_9-1
+Added Pin To Net: NetName=GND Pin=U_8-1
+Added Pin To Net: NetName=VCC-12V Pin=U_8-2
+Added Pin To Net: NetName=GND Pin=U_8-4
+Added Pin To Net: NetName=GND Pin=U_9-1
+Added Pin To Net: NetName=VCC-12V Pin=U_9-2
+Added Pin To Net: NetName=GND Pin=U_9-4
+Added Pin To Net: NetName=NetD1_8_2 Pin=D1_8-2
+Added Pin To Net: NetName=NetD1_8_2 Pin=J_8-N
+Added Pin To Net: NetName=NetD1_8_2 Pin=Q_8-5
+Added Pin To Net: NetName=NetD1_8_2 Pin=Q_8-6
+Added Pin To Net: NetName=NetD1_8_2 Pin=Q_8-7
+Added Pin To Net: NetName=NetD1_8_2 Pin=Q_8-8
+Added Net: Name=NetD1_8_2
+Added Pin To Net: NetName=NetD1_9_2 Pin=D1_9-2
+Added Pin To Net: NetName=NetD1_9_2 Pin=J_9-N
+Added Pin To Net: NetName=NetD1_9_2 Pin=Q_9-5
+Added Pin To Net: NetName=NetD1_9_2 Pin=Q_9-6
+Added Pin To Net: NetName=NetD1_9_2 Pin=Q_9-7
+Added Pin To Net: NetName=NetD1_9_2 Pin=Q_9-8
+Added Net: Name=NetD1_9_2
+Added Pin To Net: NetName=NetQ_8_4 Pin=Q_8-4
+Added Pin To Net: NetName=NetQ_8_4 Pin=R1_8-2
+Added Pin To Net: NetName=NetQ_8_4 Pin=R2_8-2
+Added Net: Name=NetQ_8_4
+Added Pin To Net: NetName=NetQ_9_4 Pin=Q_9-4
+Added Pin To Net: NetName=NetQ_9_4 Pin=R1_9-2
+Added Pin To Net: NetName=NetQ_9_4 Pin=R2_9-2
+Added Net: Name=NetQ_9_4
+Added Pin To Net: NetName=NetR1_8_1 Pin=R1_8-1
+Added Pin To Net: NetName=NetR1_8_1 Pin=U_8-5
+Added Net: Name=NetR1_8_1
+Added Pin To Net: NetName=NetR1_9_1 Pin=R1_9-1
+Added Pin To Net: NetName=NetR1_9_1 Pin=U_9-5
+Added Net: Name=NetR1_9_1
+Added Pin To Net: NetName=TCK1 Pin=HORIZ1-1
+Added Pin To Net: NetName=TCK1 Pin=R3_8-2
+Added Pin To Net: NetName=TCK1 Pin=U_8-3
+Added Net: Name=TCK1
+Added Pin To Net: NetName=TCK4 Pin=HORIZ2-1
+Added Pin To Net: NetName=TCK4 Pin=R3_9-2
+Added Pin To Net: NetName=TCK4 Pin=U_9-3
+Added Net: Name=TCK4
+Added Member To Class: ClassName=8 Member=Component C1_8 (C1) 100nF
+Added Member To Class: ClassName=9 Member=Component C1_9 (C1) 100nF
+Added Member To Class: ClassName=6 Member=Component C2_6 (C2) 100uF
+Added Member To Class: ClassName=8 Member=Component C2_8 (C2) 100uF
+Added Member To Class: ClassName=9 Member=Component C2_9 (C2) 100uF
+Added Member To Class: ClassName=8 Member=Component D1_8 (D1) SK34
+Added Member To Class: ClassName=9 Member=Component D1_9 (D1) SK34
+Added Member To Class: ClassName=SensorBoardShield_Actuator_v2.0 Member=Component HORIZ1 1 Pin Header
+Added Member To Class: ClassName=SensorBoardShield_Actuator_v2.0 Member=Component HORIZ2 1 Pin Header
+Added Member To Class: ClassName=8 Member=Component J_8 (J) XT30PW-F
+Added Member To Class: ClassName=9 Member=Component J_9 (J) XT30PW-F
+Added Member To Class: ClassName=8 Member=Component Q_8 (Q) IPZ40N04S5L-7R4
+Added Member To Class: ClassName=9 Member=Component Q_9 (Q) IPZ40N04S5L-7R4
+Added Member To Class: ClassName=8 Member=Component R1_8 (R1) 10R
+Added Member To Class: ClassName=9 Member=Component R1_9 (R1) 10R
+Added Member To Class: ClassName=8 Member=Component R2_8 (R2) 4k7
+Added Member To Class: ClassName=9 Member=Component R2_9 (R2) 4k7
+Added Member To Class: ClassName=8 Member=Component R3_8 (R3) 4k7
+Added Member To Class: ClassName=9 Member=Component R3_9 (R3) 4k7
+Added Member To Class: ClassName=8 Member=Component U_8 (U) MCP1416T-E/OT
+Added Member To Class: ClassName=9 Member=Component U_9 (U) MCP1416T-E/OT
