@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C1_6-1
+Removed Pin From Net: NetName=VCC-12V Pin=C1_6-2
+Removed Pin From Net: NetName=VCC-12V Pin=C2_6-1
+Removed Pin From Net: NetName=GND Pin=C2_6-2
+Removed Pin From Net: NetName=VCC-12V Pin=D1_6-1
+Removed Pin From Net: NetName=VCC-12V Pin=J_6-P
+Removed Pin From Net: NetName=GND Pin=Q_6-1
+Removed Pin From Net: NetName=GND Pin=Q_6-2
+Removed Pin From Net: NetName=GND Pin=Q_6-3
+Removed Pin From Net: NetName=GND Pin=R2_6-1
+Removed Pin From Net: NetName=GND Pin=R3_6-1
+Removed Pin From Net: NetName=GND Pin=U_6-1
+Removed Pin From Net: NetName=VCC-12V Pin=U_6-2
+Removed Pin From Net: NetName=GND Pin=U_6-4
+Removed Member From Class: ClassName=mosfetsema Member=6

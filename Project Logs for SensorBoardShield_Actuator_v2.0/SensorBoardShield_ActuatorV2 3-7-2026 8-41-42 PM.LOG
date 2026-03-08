@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TCK1 Pin=R3_8-2
+Removed Pin From Net: NetName=TCK4 Pin=R3_9-2
+Removed Pin From Net: NetName=TCK1 Pin=U_8-3
+Removed Pin From Net: NetName=TCK4 Pin=U_9-3
+Added Pin To Net: NetName=TCK4 Pin=R3_8-2
+Added Pin To Net: NetName=TCK1 Pin=R3_9-2
+Added Pin To Net: NetName=TCK4 Pin=U_8-3
+Added Pin To Net: NetName=TCK1 Pin=U_9-3
+Added Member To Class: ClassName=9 Member=Component C2_9 (C2) 100uF
+Added Member To Class: ClassName=9 Member=Component J_9 (J) XT30PW-F
